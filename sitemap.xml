@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zxy-hhh.github.io/archives/4470c7c2.html</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/archives/db3acede.html</loc>
+    
+    <lastmod>2022-08-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zxy-hhh.github.io/archives/c5309831.html</loc>
     
     <lastmod>2022-08-03</lastmod>
@@ -63,6 +81,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/tags/Charles%E6%9D%A5%E5%88%86%E6%9E%90%E5%89%8D%E5%90%8E%E7%AB%AF%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/tags/Charles%E6%A8%A1%E6%8B%9F%E5%BC%B1%E7%BD%91%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/tags/Charles%E7%9A%84%E6%96%AD%E7%82%B9%E6%9E%84%E5%BB%BA%E5%BC%82%E5%B8%B8%E7%9A%84%E6%B5%8B%E8%AF%95%E5%9C%BA%E6%99%AF/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://zxy-hhh.github.io/tags/Git%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc>
@@ -148,7 +187,49 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://zxy-hhh.github.io/tags/%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%9A%84%E4%BF%A1%E6%81%AF/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/tags/%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%9A%84%E8%B7%9F%E8%B8%AA%E6%B5%81%E7%A8%8B/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/tags/JIRA%E7%9A%84%E7%89%B9%E7%82%B9%E5%92%8C%E4%BD%BF%E7%94%A8%E8%80%85/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/tags/JIRA%E7%9A%84%E9%97%AE%E9%A2%98%E5%92%8C%E5%B7%A5%E4%BD%9C%E6%B5%81/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/tags/JIRA%E7%9A%84%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/categories/Charles/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://zxy-hhh.github.io/categories/Git/</loc>
@@ -165,6 +246,20 @@
   </url>
   
   <url>
+    <loc>https://zxy-hhh.github.io/categories/JIRA/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/categories/%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://zxy-hhh.github.io/categories/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2022-08-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -173,6 +268,13 @@
   
   <url>
     <loc>https://zxy-hhh.github.io/categories/%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zxy-hhh.github.io/categories/%E7%BC%BA%E9%99%B7%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
